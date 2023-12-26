@@ -1,0 +1,14 @@
+# Week 6 - Resampling
+- What is gradient descent?
+- What is the difference between model assessment and selection?
+- What is cross-validation? What is repeated cross-validation?
+- What is leave-one-out cross-validation?
+- What is k-Fold Cross-Validation?
+- What is Monte Carlos Cross Validation?
+- What is stratified cross-validation? How does one use cross-validation on classification problems? How deal with unbalanced classes?
+- What is a validation set? 
+- What is bootstraping?
+- What is the training rate? What are hyperparameters? What is tuning?
+- What is grid search? What is the difference between a regular and non-regular grid?
+- What is iterative search? What is Bayesian optimization? What is **SIMULATED ANNEALING?**
+- What is the ROC curve?
